@@ -9,6 +9,7 @@ public class Quiz {
         reward = 0;
         int audiencePollUsed = 0,
         fiftyFiftyUsed = 0;
+        System.out.println("-------m--------------------");
         System.out.println("===== WELCOME TO QUIZ GAME =====");
         for (int i = 1; i <= 10; i++) {
             System.out.println("-------m--------------------");
